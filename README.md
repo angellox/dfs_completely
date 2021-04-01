@@ -1,2 +1,2 @@
 # dfs_completely
-Algorithm of DFS with condictions: euclidian distance &amp; id greater, id fewer.
+Algorithm of DFS with condictions: euclidean distance &amp; id greater, id fewer.
